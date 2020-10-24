@@ -1,4 +1,4 @@
-# 黑米粥工作室 圆计算  
+# 圆计算  
 > ## CircleCal  
 > **_https://github.com/Heymmy-Zhou/CircleCal_**  
 ***
